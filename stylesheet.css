@@ -1,0 +1,14 @@
+/*Stylesheet*/
+
+
+body{
+    background-color: rgb(137, 240, 240);
+}
+
+
+.Header-1 {
+    color: rgb(233, 30, 64);
+    text-align: center;
+    position: relative; 
+    
+}
